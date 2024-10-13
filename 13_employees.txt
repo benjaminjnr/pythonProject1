@@ -1,0 +1,7 @@
+Jim - Salesman
+Dwight - Salesman
+Michael - Manager
+Pam - Secretary
+Ryan - Temp
+Toby - Human Resources
+Kelly - Customer Services
